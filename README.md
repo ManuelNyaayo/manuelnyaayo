@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I love coding the web using javascript and python necessarily
 
 <!--
 **ManuelNyaayo/manuelnyaayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
